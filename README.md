@@ -1,4 +1,4 @@
-# Web Application 
+# Web Application API
 
 This is a class diagram representing the relationship between the `WebApplication` class and the `WebAppController` class in a web application.
 
